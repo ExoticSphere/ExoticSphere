@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carlos
+- 👋 Hi, I’m Carlos
 - 👀 I’m interested in ...In learning the basics of coding 
 - 🌱 I’m currently learning ... The basics of CS
 - 💞️ I’m looking to collaborate on ... Nothing at the moment
